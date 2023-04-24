@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **Java, Android, HTML, SQL**
+- 💬 Ask me about **Java, Android, HTML, SQL, C, C++, C#**
 
 - 📫 How to reach me **berkay.sevgili23@gmail.com**
 
