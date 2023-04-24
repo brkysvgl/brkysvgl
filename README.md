@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif)](https://www.instagram.com/berkaysevgili23/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.instagram.com/berkaysevgili23/)
 <h1 align="center">Hi 👋, I'm Berkay Sevgili</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img aling="right" alt = "Coding" width:"400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
