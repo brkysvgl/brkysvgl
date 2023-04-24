@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brkysvgl&label=Profile%20views&color=0e75b6&style=flat" alt="brkysvgl" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **Java, PYTHON, Android, HTML, SQL**
+- 💬 Ask me about **Java, Android, HTML, SQL, MSSQL, MYSQL, C, C++, C#**
 
 - 📫 How to reach me **berkay.sevgili23@gmail.com**
 
