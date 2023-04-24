@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/berkay_sevgili" target="blank"><img src="https://img.shields.io/twitter/follow/berkay_sevgili?logo=twitter&style=for-the-badge" alt="berkay_sevgili" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **Java, PYTHON, Android, HTML, SQL**
+- 💬 Ask me about **Java, Android, HTML, SQL**
 
 - 📫 How to reach me **berkay.sevgili23@gmail.com**
 
