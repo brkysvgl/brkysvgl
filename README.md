@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **Java, Android, HTML, SQL, MSSQL, MYSQL, C, C++, C#**
+- 💬 Ask me about **Java, Android, HTML, SQL, MSSQL, MYSQL, C, C++, C# , DevOps (Azure), Microsoft MSD **
 
 - 📫 How to reach me **berkay.sevgili23@gmail.com**
 
